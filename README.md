@@ -1,10 +1,10 @@
 # Sasu Igbinosa
 
-Self-taught backend engineer building production systems since 2021. Specializing in **NestJS**, **FastAPI**, and **distributed systems** across e-commerce, SaaS, and AI-agent platforms.
+Building production-ready backend systems since 2021 across SaaS, e-commerce, and AI platforms. I work with TypeScript, Node.js, NestJS, FastAPI, Django, and DRF.
 
-Backend-leaning full-stack engineer focused on building reliable, scalable systems. I work mostly with TypeScript, Node.js, NestJS, Python, Django, DRF and modern web stacks, and I enjoy designing APIs, data models, and business logic that actually hold up in production.
+I design clean APIs, solid data models, and distributed systems that are performant, maintainable, and resilient.
 
-Curious by default, opinionated when necessary, and always learning.
+All about code that works, systems that last, always improving..
 
 ---
 
